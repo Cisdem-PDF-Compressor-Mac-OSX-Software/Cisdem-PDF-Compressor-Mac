@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/52256/m/cisdem-pdfcompressor-logo.png?v=1610437813" width="200"><br>
+<img src="https://www.cisdem.com/image/pdf-compressor-mac/iOS/PDFCompress.png" width="200"><br>
 <a href="https://mac-share-apps.github.io/.github/">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
